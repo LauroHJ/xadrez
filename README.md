@@ -1,3 +1,31 @@
+## Instalação 
+### Requisitos
+- Java 8 ou superior 
+
+## Como Rodar
+```bash
+  ~$ git clone github.com/LauroHJ/xadrez.git
+  ~$ cd bin/
+  ~$ java application/App
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
